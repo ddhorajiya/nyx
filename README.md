@@ -7,7 +7,7 @@ Nyx picks up queued backend tickets overnight, writes the change, runs the full 
 > Personal project · built & operated by one engineer.
 > This repository is the public write-up + showcase site. The implementation is kept private.
 
-**Live:** [_add your GitHub Pages / Netlify URL here_](https://ddhorajiya.github.io/nyx/)
+**Live:** [nyx](https://ddhorajiya.github.io/nyx/)
 
 ---
 
